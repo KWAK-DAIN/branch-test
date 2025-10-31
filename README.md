@@ -1,1 +1,1 @@
-practicing git branching and merging
+Hotfix team's solution
